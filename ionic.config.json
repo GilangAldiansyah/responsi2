@@ -1,0 +1,7 @@
+{
+  "name": "tamu",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
